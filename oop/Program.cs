@@ -129,15 +129,15 @@
 //using System;
 //namespace app
 //{
-//public class BaseViewModel
+//    public class BaseViewModel
 //    {
 
-//      public   int id = 12345;
-//      public   string name = "iman";
+//        public int id = 12345;
+//        public string name = "iman";
 
 //    }
 
-//    public class ProductViewModel: BaseViewModel
+//    public class ProductViewModel : BaseViewModel
 //    {
 
 //        public double price = 345.2345;
@@ -151,10 +151,10 @@
 //        }
 
 //    }
-//   public  class Copy
+//    public class Copy
 //    {
 
-//static void Main()
+//        static void Main()
 //        {
 
 //            ProductViewModel obj = new ProductViewModel();
@@ -164,7 +164,7 @@
 //        }
 
 //    }
-//}
+}
 
 
 //question 5
@@ -219,7 +219,7 @@
 //static void Main()
 //        {
 
-
+//print("hello world");
 
 
 //        }
@@ -229,4 +229,8 @@
 
 //}
 
-//print("hello world");
+//gfdfdtrfc
+//gd morning
+
+
+//my new program
